@@ -1,8 +1,8 @@
 # hello-world
 Tutorial from Github.com
-I'm a student of LaunchCode in St Louis, MO.  A wonderful organization that is available to learn how to code.  It's very professional and friendly plus absolutely free. You do have to take an aptitude exam to be accepted.  The exam is not difficult.  They look for qualities in you that are essential in coding i.e. logic thinking, basic math.
+As a student of the September 2020 LaunchCode-101 in St Louis, Missouri I would like to give you a brief view of my journey in this course.  LauchCode is a wonderful organization that teaches how to code.  Currently we are learning JavaScript and Java.  The organization, is professional and friendly and the best part is that it is absolutely free. You do have to take an aptitude exam to be accepted.  But the exam is not difficult.  They look for qualities in you that are essential to coding i.e. logic thinking, basic math.
 
-My journey has been challenging.  It's fast paced and sometimes you do feel discouraged and may think "Am I dense? why is this concept so difficult to understand?".  But don't dispair and stay on course.  Coding is similar to learning a brand new language.  In this case, it's learning how to communicate with the digital machine/cloud world.
+My journey has been challenging.  If you have zero knowledge or experience in coding, the course is fast paced.  Sometimes you do feel discouraged and may think "Am I dense? why is this concept so difficult to understand?".  But don't dispair and stay on course.  Coding is similar to learning a brand new language.  In this case, it's learning how to communicate with the digital machine/cloud world.  My recommendation is that if you have had zero experience or knowledge in coding you allow yourself 20 to 30 hours to code.  A part time job is best if you need to have some income.  
 
 "There's a method to the madness":  Be patient and stay at it. Persevere and you will conquer. If you find a concept difficult to grasp, ask questions, read and review the chapters, do your exercises and Studios.
 
